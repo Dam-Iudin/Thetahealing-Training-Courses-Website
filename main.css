@@ -189,7 +189,7 @@ body {
     position: absolute;
     top: 1px;
     left: 0;
-    background-image: url(../images/bullet.svg);
+    background-image: url(bullet.svg);
 
 }
 
@@ -264,7 +264,7 @@ body {
     border-radius: 30px;
     border: 10px solid white;
     overflow: hidden;
-    background: radial-gradient(25.3% 57.25% at 50% 50%, rgba(80, 152, 190, 0.5) 0%, rgba(52, 113, 146, 0.76) 100%), url(../images/preview.jpg);
+    background: radial-gradient(25.3% 57.25% at 50% 50%, rgba(80, 152, 190, 0.5) 0%, rgba(52, 113, 146, 0.76) 100%), url(preview.jpg);
     background-size: cover;
     background-position: center;
     box-shadow: 0px 80px 100px rgba(211, 226, 235, 0.8);
